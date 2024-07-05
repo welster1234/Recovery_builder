@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/welster1234/android_device_tecno_TECNO-LI9" #
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="tecno" # device manufacturer or vendor
 export TARGET="vendorboot" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="twrp" # recovery type: omni, twrp, something else
+export TYPE="omni" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
